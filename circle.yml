@@ -8,3 +8,4 @@ deployment:
 test:
   override:    
     - mocha
+    
